@@ -1,0 +1,12 @@
+numpy<2.0
+gradescope-utils
+matplotlib
+tensorboardX
+tensorboard
+absl-py
+pycocotools
+scikit-image
+chardet
+tqdm
+torch
+torchvision
